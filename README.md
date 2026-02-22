@@ -245,12 +245,22 @@ npx hardhat run --network monad scripts/deploy.js
 Deploying with: 0xeC0907EC536317d22b188e2acb22cB6c232fA243
 MonadToken deployed to: 0xd49FD4d59baF264970E38aEe98D02B55F4D63a58
 Owner (deployer): 0xeC0907EC536317d22b188e2acb22cB6c232fA243
-Explorer link: https://explorer.monad.xyz/address/0xd49FD4d59baF264970E38aEe98D02B55F4D63a58
+Explorer link: https://testnet.monadvision.com/address/0xd49FD4d59baF264970E38aEe98D02B55F4D63a58
 ```
 
 ---
 
 ## 7. Deployment Proof
+
+Contract Name: MonadToken  
+Standard: ERC20 (OpenZeppelin)  
+Network: Monad Testnet  
+
+Contract Address:
+0xd49FD4d59baF264970E38aEe98D02B55F4D63a58  
+
+Explorer Link:
+https://testnet.monadvision.com/address/0xd49FD4d59baF264970E38aEe98D02B55F4D63a58
 
 ### 7.1 Deployment Details
 
@@ -263,7 +273,7 @@ Explorer link: https://explorer.monad.xyz/address/0xd49FD4d59baF264970E38aEe98D0
 | Token Symbol | MONAD |
 | Initial Supply | 1,000,000 MONAD (10^24 wei) |
 | Solidity Version | ^0.8.20 |
-| Block Explorer | https://explorer.monad.xyz/address/0xd49FD4d59baF264970E38aEe98D02B55F4D63a58 |
+| Block Explorer | https://testnet.monadvision.com/address/0xd49FD4d59baF264970E38aEe98D02B55F4D63a58 |
 
 ### 7.2 Constructor Arguments
 
@@ -466,7 +476,7 @@ MonadToken successfully demonstrates the implementation of a production-ready ER
 
 The deployed contract can be viewed on the Monad Block Explorer:
 
-**https://explorer.monad.xyz/address/0xd49FD4d59baF264970E38aEe98D02B55F4D63a58**
+**https://testnet.monadvision.com/address/0xd49FD4d59baF264970E38aEe98D02B55F4D63a58**
 
 ### Future Enhancements
 
